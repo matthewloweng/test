@@ -1,3 +1,3 @@
-# Lama Dev Chat App Starter template
+# React Firebase Chat Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The intention is to integrate OpenAI's RESTful API for chat bot experience for users.
